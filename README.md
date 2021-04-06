@@ -1,3 +1,5 @@
+![Alt text](images/popupDestroyer.png?raw=true "Popup Destroyer")
+
 PopupDestroyer
 ==============
 
