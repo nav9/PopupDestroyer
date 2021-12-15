@@ -58,7 +58,7 @@ BOOL CALLBACK EnumWindowsProc(HWND hWnd, long lParam)
 
 int main() 
 {
-    printf("\nPopup Destroyer - By Navin Ipe\n");
+    printf("\nPopup Destroyer - By Navin\n");
     printf("------------------------------------------------ \n");
     printf("              30th October 2012 \n");
     printf("------------------------------------------------ \n\n\n");
